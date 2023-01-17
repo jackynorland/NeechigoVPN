@@ -15,7 +15,7 @@ Neechigo could split the network data, only the specified websites will go by da
 
 - Check the websites and download the client. Only windows version has been released. MacOsx and Linux will be published in the future.
 - Install it and run it, then we can access the specified websites that listed by Neechigo. 
-- Or right-click the Neechigo icon on taskbar, you could found the listed websites.<br>
+- Or right-click the Neechigo icon on taskbar, you could access the listed websites by one-click.<br>
 ![images](https://iili.io/bYPjdg.png)
 
 # FAQ
