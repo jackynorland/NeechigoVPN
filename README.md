@@ -8,8 +8,9 @@ Neechigo could split the network data, only the specified websites will go by da
 [https://www.neechigo.com](https://www.neechigo.com)
 
 # Release Info
-<g-emoji class="g-emoji" alias="information_source" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2139.png">ℹ️</g-emoji> [__Windows 7/10/11 32bit/64bit__](https://www.neechigo.com/software/Neechigo_installer.exe) <br>
-<g-emoji class="g-emoji" alias="information_source" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2139.png">ℹ️</g-emoji> __MacOSx/Linux__      _---not released_
+<g-emoji class="g-emoji" alias="information_source" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2139.png">ℹ️</g-emoji> [__Windows__](https://www.neechigo.com/software/Neechigo_V3.1.263.256.exe) ---OS requirements: Windows 7/10/11 32bit/64bit<br>
+<g-emoji class="g-emoji" alias="information_source" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2139.png">ℹ️</g-emoji> [__MacOSx__](https://www.neechigo.com/software/Neechigo_V4.1.261.173.dmg) ---OS requirements: MacOSx 12.1 or later<br>
+<g-emoji class="g-emoji" alias="information_source" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2139.png">ℹ️</g-emoji> __Linux__ _---not released_
 
 # How to use it?
 
