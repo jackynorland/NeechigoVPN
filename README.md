@@ -14,10 +14,10 @@ Neechigo could split the network data, only the specified websites will go by da
 
 # How to use it?
 
-- Check the websites and download the client. Only windows version has been released. MacOsx and Linux will be published in the future.
+- Check the websites and download the client. Windows and MacOSx version have been released. Linux will be published in the future.
 - Install it and run it, then we can access the specified websites that listed by Neechigo. 
 - Or right-click the Neechigo icon on taskbar, you could access the listed websites by one-click.<br>
-![images](https://iili.io/bYPjdg.png)
+![images](https://iili.io/HwJ3t9t.png)
 
 # FAQ
 If the program fails to start and an error message referring that some DLLs  are missing.  To solve this issue, you need to install the Microsoft Visual C++ Redistributable Packages for Visual Studio 2019. Download the followed package and install on your workstation.<br>
